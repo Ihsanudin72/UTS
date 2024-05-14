@@ -1,0 +1,70 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_svg: ^2.0.10+1
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/image_picture_landscape_2_by_streamlinehq.png
+  - assets/images/image_13.png
+  - assets/images/image_2.png
+  - assets/images/navigation_menu_1_by_streamlinehq.png
+  - assets/images/image_6.png
+  - assets/images/interface_setting_menu_horizontal_by_streamlinehq.png
+  - assets/images/image_5.png
+  - assets/images/interface_setting_slider_horizontal_by_streamlinehq.png
+  - assets/images/image_11.png
+  - assets/images/image_camera_action_by_streamlinehq.png
+  - assets/images/image_12.png
+  - assets/images/image_10.png
+  - assets/images/image_14.png
+  - assets/images/interface_search_by_streamlinehq.png
+  - assets/images/image_3.png
+  - assets/images/logo_1.jpeg
+  - assets/vectors/mobile_signal_2_x2.svg
+  - assets/vectors/time_x2.svg
+  - assets/vectors/container_x2.svg
+  - assets/vectors/battery_x2.svg
+  - assets/vectors/wifi_x2.svg
+  - assets/images/interface_setting_menu_horizontal_by_streamlinehq.png
+  - assets/images/image_19.png
+  - assets/images/interface_search_by_streamlinehq.png
+  - assets/images/navigation_menu_1_by_streamlinehq.png
+  - assets/images/logo_1.jpeg
+  - assets/images/image_14.png
+  - assets/images/image_21.png
+  - assets/images/image_22.png
+  - assets/images/image_20.png
+  - assets/images/interface_edit_pencil_by_streamlinehq.png
+  - assets/images/image_15.png
+  - assets/images/image_13.png
+  - assets/images/image_camera_1_by_streamlinehq.png
+  - assets/vectors/battery_2_x2.svg
+  - assets/vectors/time_2_x2.svg
+  - assets/vectors/polygon_1_x2.svg
+  - assets/vectors/mobile_signal_x2.svg
+  - assets/vectors/arrow_7_x2.svg
+  - assets/vectors/arrow_8_x2.svg
+  - assets/vectors/wifi_1_x2.svg
+  - assets/vectors/wifi_2_x2.svg
+  - assets/vectors/mobile_signal_1_x2.svg
+  - assets/vectors/time_1_x2.svg
+  - assets/vectors/battery_1_x2.svg
+
